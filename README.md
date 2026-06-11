@@ -1,0 +1,1 @@
+# Sistem-Optical-Character-Recognition-untuk-Konversi-Citra-Teks
